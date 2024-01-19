@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google" value="notranslate">
-<meta property="fb:app_id" content="891856127648858">
+<meta property="fb:app_id" content="1981354108897510">
 <meta property="og:title" content="أكاديمية مسيرتي التعليمية">
 <meta name="author" content="أكاديمية مسيرتي التعليمية">
 <link rel="shortlink" href="https://me.edu.sa/">
